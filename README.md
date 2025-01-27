@@ -1,8 +1,10 @@
-((https://github.com/sumit4622)(../https://github.com/sumit4622/Smart-Air-Monitring-System/blob/main/Media/VID_109340718_152838_484.mp4))
 
 # Smart-Air-Monitring-System
 
 IoT-based air pollution monitoring systems represent a sophisticated integration of hardware and software. Hardware components, such as sensors to measure pollutants, microcontrollers to process data, and communication modules to transmit information, form the foundation of these systems.The IoT-based air pollution monitoring system provides several benefits over traditional air pollution monitoring systems. It can collect real-time data from multiple locations, which then analyzed to identify the sources of pollution. It helps to take necessary measures to reduce it.
+
+[((https://github.com/sumit4622)(../https://github.com/sumit4622/Smart-Air-Monitring-System/blob/main/Media/VID_109340718_152838_484.mp4))](https://github.com/user-attachments/assets/660c0ba1-32b2-4ad3-afc7-10d22b082109)
+
 
 ## IoT Monitoring System components:
 This project is designed to monitor and analyze air quality using IoT technologies. The system comprises the following key components:
@@ -15,4 +17,4 @@ This project is designed to monitor and analyze air quality using IoT technologi
 
 This system enables real-time air quality monitoring and provides a scalable solution for addressing environmental challenges.
 
-## How does IoT reduce air pollution? 
+
